@@ -20,7 +20,7 @@
 
 Config = {}
 
-Config.TrainMaxSpeed = 15.0 -- Train max speed (fot used for trams)
+Config.TrainMaxSpeed = 8.0 -- Train max speed (fot used for trams)
 
 -- Initial train spawn locations
 Config.EastTrainSpawnLocation = vec3(2590.34, -1477.24, 45.86)
